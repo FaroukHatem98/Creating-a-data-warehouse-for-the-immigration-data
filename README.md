@@ -1,4 +1,4 @@
-# Creating-a-data-warehouse-for-the-immigration-data
+#  Creating_a_data_warehouse_for_the_immigration_data
 
 #### Project Summary
 In this project I have the data in 2 different sources `sas` and `csv` formats.
